@@ -1,5 +1,6 @@
-<h3> 🦋 </a>
-<a href="https://github.com/YTasheva"></a>
-<div class="responsive-google-slides">
-     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYJ-aXm2Rqgb7VaOngkedszYvbiTfHo1fnaupwonTJ0HLeyRHs7xymjuYxzUIMULm-67ApMkqJFtWJ/embed?rm=minimal&start=true&loop=true&delayms=3000"></iframe>
-    </div>
+![Profile](<Images/Main Page.png>)
+![Table of contents](<Images/Table of contents.png>)
+![About Me](<Images/About me Page.png>)
+![Projects](<Images/Projects Page.png>)
+![Skills](<Images/Skills Page.png>)
+![Contact](<Images/Contact Page.png>)
