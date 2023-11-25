@@ -1,0 +1,19 @@
+body {
+  background: #f4f4f4;
+  color: #555;
+  margin: 20px;
+}
+  .responsive-google-slides {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Ratio */
+    height: 0;
+    overflow: hidden;
+  }
+  .responsive-google-slides iframe {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
