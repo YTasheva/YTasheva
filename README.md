@@ -9,7 +9,6 @@
 
 ## Links
 
-- Solution URL: https://github.com/YTasheva/YTasheva
 - Live Site URL: https://ytasheva.github.io/YTasheva/
 
 ## Emailware
@@ -19,7 +18,6 @@ The Profile design is an [emailware](https://en.wiktionary.org/wiki/emailware). 
 ## Author
 
 - Github - [Yuliya Tasheva](https://github.com/YTasheva)
-
 
 ## License
 
