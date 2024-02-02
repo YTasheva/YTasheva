@@ -21,11 +21,10 @@ The Profile design is an [emailware](https://en.wiktionary.org/wiki/emailware). 
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-> [YTasheva.com](#) &nbsp;&middot;&nbsp;
 > GitHub [@YTasheva](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
 > Twitter [@YTasheva](#) &nbsp;&middot;&nbsp;
 > Email [@YTasheva](ytashevagit@gmail.com);
