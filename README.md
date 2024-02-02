@@ -3,7 +3,7 @@
 ![About Me](<Images/About me Page.png>)
 ![Projects](<Images/Projects Page.png>)
 ![Skills](<Images/Skills Page.png>)
-![Contact](<Images/Contact Page.png>)
+![Contact](<Images/contactMe.jpg>)
 
 
 
