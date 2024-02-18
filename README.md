@@ -25,7 +25,7 @@ The Profile design is an [emailware](https://en.wiktionary.org/wiki/emailware). 
 
 ---
 
-> GitHub [@YTasheva](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
+> [GitHub](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
 > Twitter [@YTasheva](#) &nbsp;&middot;&nbsp;
-> Email [@YTasheva](ytashevagit@gmail.com);
+> [Email](ytashevagit@gmail.com);
 
