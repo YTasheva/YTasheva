@@ -13,7 +13,7 @@
 
 ## Emailware
 
-The Profile design is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this info or it has helped you in any way, I'd like you to send me an email at <ytashevagit@gmail.com> about anything you'd want to say about this resource. I'd really appreciate it!  
+The Profile design is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this info or it has helped you in any way, I'd like you to send me an email at <info@yuliya-tasheva.co.uk> about anything you'd want to say about this resource. I'd really appreciate it!  
 
 ## Author
 
@@ -27,5 +27,5 @@ The Profile design is an [emailware](https://en.wiktionary.org/wiki/emailware). 
 
 > [GitHub](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
 > Twitter [@YTasheva](#) &nbsp;&middot;&nbsp;
-> [Email](ytashevagit@gmail.com);
+> [Email](info@yuliya-tasheva.co.uk);
 
